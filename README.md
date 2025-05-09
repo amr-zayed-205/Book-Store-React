@@ -41,7 +41,7 @@ The website is fully responsive and works on mobile, tablet, and desktop.
 
    Firebase / Mock API (for book data)
 
-#Screanshots
+# Screanshots
 
 Home page:
 ![image alt](https://github.com/amr-zayed-205/Book-Store-React/blob/1035731a6d86784ad9c8616d63ca2e1e9200f9c1/Project%20Photos/Home%20bages.png)
