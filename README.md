@@ -49,8 +49,7 @@ This project is open-source under the MIT License.
 
 # Contact
 
-For que
-stions or feedback, email: your-email@example.com
+For questions or feedback, email: amr.zayed.205@gmail.com
 
 
 # Happy Coding!
