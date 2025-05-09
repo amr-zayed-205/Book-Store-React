@@ -20,7 +20,7 @@ The website is fully responsive and works on mobile, tablet, and desktop.
    Bootstrap Styling – Clean and modern UI.
 
 
-#🛠 Technologies Used
+# Technologies Used
  
  Frontend:
   
