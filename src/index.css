@@ -1,0 +1,27 @@
+:root {
+  --main-color: #4c294d;
+  --primary-color: #f8f9fa;
+}
+
+*{
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  margin: 0;
+  font-family: 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+}
+
+body {
+  background-color: var(--primary-color);
+}
+
+ul {
+  list-style: none;
+}
+
+input:focus,
+textarea:focus {
+  outline: none;
+}

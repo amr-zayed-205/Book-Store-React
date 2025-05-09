@@ -1,0 +1,144 @@
+.footer {
+    padding: 10px 30px;
+    background-color: var(--main-color);
+    color: var(--primary-color);
+}
+
+/* Footer Social Media */
+.footer-social-media {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    border-bottom: 1px solid var(--primay-color);
+    padding: 10px;
+    padding-bottom: 20px;
+}
+
+.footer-social-medai-text {
+    color: var(--primary-color);
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.footer-social-media-icons {
+    display: flex;
+    align-items: center;
+}
+
+.footer-social-media-icon{
+    margin: 0 15px;
+    background-color: rgb(255 255 255 / 10%);
+    padding: 30px;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+
+.footer-social-media-icon i {
+    font-size: 32px;
+}
+
+/* Footer Links Wrapper */
+.footer-links-wrapper {
+    padding: 20px;
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+}
+
+.footer-links-item {
+    width: 30%;
+}
+
+.footer-links-item-title {
+    color: white;
+    font-size: 21px;
+    font-weight: 700;
+    border-bottom: 3px solid white;
+    width: max-content;
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+}
+
+.footer-links {
+    padding: 5px;
+}
+
+.footer-link a {
+    text-decoration: none;
+    color: var(--primary-color);
+    font-size: 20px;
+    margin-bottom: 10px;
+    cursor: pointer;
+    display: block;
+    transition: all 0.2s ;
+}
+
+/* للتأكد من أن الروابط لا تظهر مع خط سفلي عند التمرير */
+.footer-link a:hover {
+background-color: rgb(255 255 255/5%);
+border-radius: 10px;
+}
+
+.footer-address-item {
+    margin-bottom: 20px;
+    font-size: 20px;
+    color: var(--primary-color);
+}
+
+.footer-address-item i {
+    font-size: 27px;
+    margin-right: 5px;
+}
+
+.footer-description {
+    font-size: 17px;
+    color: var(--primary-color);
+}
+/* Media Queries */
+
+@media (max-width: 820px){
+
+    .footer-social-media-icon{
+        margin-right: 7px;
+    }
+    
+    .footer-links-wrapper {
+        flex-wrap: wrap;
+    }
+    .footer-links-item {
+        width: 40%;
+    }
+
+    .footer-links-item:last-of-type {
+        width: 80%;
+        margin-top: 15px;
+    }
+}
+
+@media (max-width: 720px){
+
+    .footer-social-media {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .footer-social-media-icon{
+        margin: 15px 10px 0 0;
+    }
+}
+
+@media (max-width: 520px){
+    .footer {
+        padding: 15px;
+    }
+    .footer-links-item {
+        width: 90%;
+        margin-top: 20px;
+    }
+    
+}
