@@ -7,15 +7,19 @@ The website is fully responsive and works on mobile, tablet, and desktop.
 #🚀 Features
 
   ✅ Book Listing – Browse books with cover images, titles, and prices.
+  
   ✅ Book Details – Clicking on a book opens a modal/card with more information.
+  
   ✅ Responsive Design – Works on all devices (mobile, tablet, desktop).
+  
   ✅ Shopping Cart – Add/remove books and view the total price.
 
-✅ Search & Filter – Find books by title, author, or category.
+  ✅ Search & Filter – Find books by title, author, or category.
 
-✅ React Router – Smooth navigation between pages.
+  ✅ React Router – Smooth navigation between pages.
 
-✅ Bootstrap Styling – Clean and modern UI.
+  ✅ Bootstrap Styling – Clean and modern UI.
+
 
 #🛠 Technologies Used
  
@@ -38,13 +42,17 @@ The website is fully responsive and works on mobile, tablet, and desktop.
 
    Firebase / Mock API (for book data)
 
+
 #📜 License
 
 This project is open-source under the MIT License.
 
+
 #📬 Contact
 
-For questions or feedback, email: your-email@example.com
+For que
+stions or feedback, email: your-email@example.com
+
 
 #🎉 Happy Coding!
 
