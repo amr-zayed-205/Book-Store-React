@@ -5,20 +5,13 @@ The website is fully responsive and works on mobile, tablet, and desktop.
 ![image alt](https://github.com/amr-zayed-205/Book-Store-React/blob/fd501a1426349a4114755f87826170cc12725d9a/project.png)
 
 #🚀 Features
-
-  ✅ Book Listing – Browse books with cover images, titles, and prices.
-  
-  ✅ Book Details – Clicking on a book opens a modal/card with more information.
-  
-  ✅ Responsive Design – Works on all devices (mobile, tablet, desktop).
-  
-  ✅ Shopping Cart – Add/remove books and view the total price.
-
-  ✅ Search & Filter – Find books by title, author, or category.
-
-  ✅ React Router – Smooth navigation between pages.
-
-  ✅ Bootstrap Styling – Clean and modern UI.
+   Book Listing – Browse books with cover images, titles, and prices.
+   Book Details – Clicking on a book opens a modal/card with more information.
+   Responsive Design – Works on all devices (mobile, tablet, desktop).
+   Shopping Cart – Add/remove books and view the total price.
+   Search & Filter – Find books by title, author, or category.=
+   React Router – Smooth navigation between pages.
+   Bootstrap Styling – Clean and modern UI.
 
 
 #🛠 Technologies Used
