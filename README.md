@@ -3,7 +3,7 @@ This project is a responsive online book store built with React.js and Bootstrap
 
 ![image alt](https://github.com/amr-zayed-205/Book-Store-React/blob/fd501a1426349a4114755f87826170cc12725d9a/project.png)
 
-🚀#Features
+#🚀 Features
 
 ✅ Book Listing – Browse books with cover images, titles, and prices.
 
@@ -19,24 +19,36 @@ This project is a responsive online book store built with React.js and Bootstrap
 
 ✅ Bootstrap Styling – Clean and modern UI.
 
-🛠#Technologies Used
+#🛠 Technologies Used
+ 
  Frontend:
+  
    React.js
+  
    React Router (for navigation)
+ 
    Bootstrap 5 (for responsive styling)
+ 
    React Icons (for icons)
    
+
  State Management:
+
    Context API (for cart functionality)
+
    Backend (if applicable):
+
    Firebase / Mock API (for book data)
 
-📜 License
+#📜 License
+
 This project is open-source under the MIT License.
 
-📬 Contact
+#📬 Contact
+
 For questions or feedback, email: your-email@example.com
 
-🎉 Happy Coding!
+#🎉 Happy Coding!
+
 Feel free to contribute or customize this project for your needs. 🚀
 
