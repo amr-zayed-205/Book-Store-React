@@ -32,7 +32,7 @@ The website is fully responsive and works on mobile, tablet, and desktop.
  
    React Icons (for icons)
    
-
+   
  State Management:
 
    Context API (for cart functionality)
@@ -42,18 +42,18 @@ The website is fully responsive and works on mobile, tablet, and desktop.
    Firebase / Mock API (for book data)
 
 
-#📜 License
+# License
 
 This project is open-source under the MIT License.
 
 
-#📬 Contact
+# Contact
 
 For que
 stions or feedback, email: your-email@example.com
 
 
-#🎉 Happy Coding!
+# Happy Coding!
 
 Feel free to contribute or customize this project for your needs. 🚀
 
